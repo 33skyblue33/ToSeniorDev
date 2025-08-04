@@ -31,6 +31,7 @@ Rossmann potrzebuje nowej biblioteki do zarządzania swoją bazą danych. Oto je
         ...
     ]
 }
+```
 
 3. discounts.json
 ```json
